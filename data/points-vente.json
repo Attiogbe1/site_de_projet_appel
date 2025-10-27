@@ -1,0 +1,31 @@
+{
+  "points": [
+    {
+      "id": 1,
+      "ville": "Cotonou",
+      "quartier": "Akpakpa",
+      "responsable": "Coopérative des Femmes",
+      "telephone": "+229 65 38 80 96",
+      "horaires": "Lun-Sam: 8h-18h",
+      "stock": "disponible"
+    },
+    {
+      "id": 2,
+      "ville": "Porto-Novo",
+      "quartier": "Centre-ville",
+      "responsable": "Point de vente communautaire",
+      "telephone": "+229 65 38 80 96",
+      "horaires": "Lun-Ven: 9h-17h",
+      "stock": "disponible"
+    },
+    {
+      "id": 3,
+      "ville": "Parakou",
+      "quartier": "Marché central",
+      "responsable": "Coopérative Jeunes",
+      "telephone": "+229 65 38 80 96",
+      "horaires": "Mar-Dim: 7h-19h",
+      "stock": "sur commande"
+    }
+  ]
+}

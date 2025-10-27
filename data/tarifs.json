@@ -1,0 +1,23 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "nom": "Sac de briquettes 10 kg",
+      "poids": "10 kg",
+      "prix": 2500,
+      "unite": "FCFA",
+      "description": "Idéal pour usage domestique"
+    },
+    {
+      "id": 2,
+      "nom": "Sac de briquettes 25 kg",
+      "poids": "25 kg",
+      "prix": 6000,
+      "unite": "FCFA",
+      "description": "Pour restaurants et usage intensif"
+    }
+  ],
+  "remises": {
+    "grossiste": "Tarifs dégressifs disponibles sur demande pour les commandes en gros"
+  }
+}

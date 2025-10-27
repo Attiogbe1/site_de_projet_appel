@@ -1,0 +1,48 @@
+{
+  "fr": {
+    "partenaires": [
+      {
+        "id": 1,
+        "nom": "Collectivités locales",
+        "type": "Gouvernement",
+        "description": "Partenariats avec les communes pour la distribution"
+      },
+      {
+        "id": 2,
+        "nom": "ONG Environnement",
+        "type": "ONG",
+        "description": "Soutien technique et financier pour le développement"
+      },
+      {
+        "id": 3,
+        "nom": "Programmes Énergie Propre",
+        "type": "International",
+        "description": "Programmes de soutien aux énergies renouvelables"
+      }
+    ],
+    "appel": "Nous recherchons activement des partenaires pour accélérer notre passage à l'échelle et maximiser notre impact social et environnemental."
+  },
+  "en": {
+    "partenaires": [
+      {
+        "id": 1,
+        "nom": "Local Authorities",
+        "type": "Gouvernement",
+        "description": "Partnerships with municipalities for distribution"
+      },
+      {
+        "id": 2,
+        "nom": "Environmental NGOs",
+        "type": "ONG",
+        "description": "Technical and financial support for development"
+      },
+      {
+        "id": 3,
+        "nom": "Clean Energy Programs",
+        "type": "International",
+        "description": "Renewable energy support programs"
+      }
+    ],
+    "appel": "We are actively seeking partners to accelerate our scaling and maximize our social and environmental impact."
+  }
+}

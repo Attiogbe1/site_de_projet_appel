@@ -1,0 +1,19 @@
+{
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Commandez vos briquettes écologiques ou contactez notre équipe pour toute question. Nous sommes là pour vous accompagner.",
+    "form": {
+      "name": "Nom",
+      "phone": "Téléphone",
+      "location": "Localité",
+      "quantity": "Quantité",
+      "pickup": "Mode de retrait",
+      "pickup_options": {
+        "store": "Retrait en point de vente",
+        "delivery": "Livraison à domicile"
+      },
+      "comment": "Commentaire",
+      "submit": "Envoyer la commande"
+    }
+  }
+}

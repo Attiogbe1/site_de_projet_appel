@@ -1,0 +1,19 @@
+{
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Order your eco-friendly briquettes or contact our team with any questions. We're here to help you.",
+    "form": {
+      "name": "Name",
+      "phone": "Phone",
+      "location": "Location",
+      "quantity": "Quantity",
+      "pickup": "Pickup Method",
+      "pickup_options": {
+        "store": "Pick up at store",
+        "delivery": "Home delivery"
+      },
+      "comment": "Comment",
+      "submit": "Send Order"
+    }
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "slug": "lancement-cotonou",
+      "title": "Lancement réussi à Cotonou : 50 familles adoptent Briqu'Vert",
+      "titleEn": "Successful launch in Cotonou: 50 families adopt Briqu'Vert",
+      "excerpt": "Retour sur notre première phase de distribution dans l'Arrondissement de Azove. Les retours des utilisateurs sont très encourageants.",
+      "excerptEn": "Review of our first distribution phase in the Azove neighborhood. User feedback is very encouraging.",
+      "date": "2025-03-15",
+      "image": "/placeholder.svg?height=600&width=1200",
+      "category": "Impact",
+      "categoryEn": "Impact",
+      "author": "Équipe Briqu'Vert",
+      "authorEn": "Briqu'Vert Team",
+      "readTime": "5 min",
+      "readTimeEn": "5 min",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "C'est avec une grande fierté que nous annonçons le succès de notre première phase de distribution dans l'Arrondissement d'Azove. En l'espace de trois semaines, 50 familles ont adopté nos briquettes écologiques Briqu'Vert comme alternative au charbon de bois traditionnel.",
+          "textEn": "We are proud to announce the success of our first distribution phase in the Azove neighborhood in Couffo. Within three weeks, 50 families adopted our Briqu'Vert ecological briquettes as an alternative to traditional charcoal."
+        },
+        {
+          "type": "heading",
+          "text": "Un accueil chaleureux de la communauté",
+          "textEn": "A warm welcome from the community"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dès les premiers jours, l'enthousiasme des habitants d'Azove a dépassé nos attentes. Les familles ont particulièrement apprécié la facilité d'utilisation des briquettes avec leurs foyers traditionnels, sans nécessiter d'équipement supplémentaire.",
+          "textEn": "From the first days, the enthusiasm of Azove residents exceeded our expectations. Families particularly appreciated the ease of using briquettes with their traditional stoves, without requiring additional equipment."
+        },
+        {
+          "type": "quote",
+          "text": "Avant, je dépensais 3000 FCFA par semaine en charbon. Avec Briqu'Vert, je ne dépense que 1800 FCFA et ça dure plus longtemps. C'est une vraie économie pour ma famille.",
+          "textEn": "Before, I spent 3000 FCFA per week on charcoal. With Briqu'Vert, I only spend 1800 FCFA and it lasts longer. It's a real saving for my family.",
+          "author": "Adjoua, mère de 4 enfants",
+          "authorEn": "Adjoua, mother of 4 children"
+        },
+        {
+          "type": "heading",
+          "text": "Des résultats concrets",
+          "textEn": "Concrete results"
+        },
+        {
+          "type": "paragraph",
+          "text": "Après trois semaines d'utilisation, nous avons recueilli les témoignages de nos premiers utilisateurs. Les résultats sont encourageants :",
+          "textEn": "After three weeks of use, we collected testimonials from our first users. The results are encouraging:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "92% des familles ont constaté une réduction de leurs dépenses en combustible",
+            "85% ont noté une diminution de la fumée dans leur cuisine",
+            "78% prévoient de recommander Briqu'Vert à leur entourage",
+            "Économie moyenne de 40% sur le budget combustible mensuel"
+          ],
+          "itemsEn": [
+            "92% of families saw a reduction in their fuel expenses",
+            "85% noted a decrease in smoke in their kitchen",
+            "78% plan to recommend Briqu'Vert to their friends and family",
+            "Average savings of 40% on monthly fuel budget"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Impact environnemental mesurable",
+          "textEn": "Measurable environmental impact"
+        },
+        {
+          "type": "paragraph",
+          "text": "En seulement trois semaines, ces 50 familles ont permis d'éviter la consommation de 1,2 tonne de charbon de bois, soit l'équivalent de 6 tonnes de bois prélevé dans nos forêts. Cela représente une réduction de 3,6 tonnes de CO₂ émises dans l'atmosphère.",
+          "textEn": "In just three weeks, these 50 families avoided the consumption of 1.2 tons of charcoal, equivalent to 6 tons of wood taken from our forests. This represents a reduction of 3.6 tons of CO₂ emitted into the atmosphere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce succès initial nous motive à étendre notre distribution à d'autres quartiers de Cotonou et bientôt à Porto-Novo. Notre objectif pour 2025 est d'atteindre 500 familles utilisatrices régulières.",
+          "textEn": "This initial success motivates us to extend our distribution to other neighborhoods in Cotonou and soon to Porto-Novo. Our goal for 2025 is to reach 500 regular user families."
+        },
+        {
+          "type": "heading",
+          "text": "Prochaines étapes",
+          "textEn": "Next steps"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fort de ce succès, nous lançons dès avril notre deuxième phase de distribution dans les quartiers de Godomey et Calavi. Nous recrutons également 10 nouveaux transformateurs pour augmenter notre capacité de production et répondre à la demande croissante.",
+          "textEn": "Building on this success, we are launching our second distribution phase in April in the Godomey and Calavi neighborhoods. We are also recruiting 10 new processors to increase our production capacity and meet growing demand."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "reduction-deforestation",
+      "title": "Comment nos briquettes réduisent la déforestation",
+      "titleEn": "How our briquettes reduce deforestation",
+      "excerpt": "Découvrez les chiffres concrets de notre impact environnemental et comment chaque sac de briquettes préserve nos forêts.",
+      "excerptEn": "Discover the concrete figures of our environmental impact and how each bag of briquettes preserves our forests.",
+      "date": "2025-03-10",
+      "image": "/placeholder.svg?height=600&width=1200",
+      "category": "Environnement",
+      "categoryEn": "Environment",
+      "author": "Dr. Koffi Mensah, Expert Environnemental",
+      "authorEn": "Dr. Koffi Mensah, Environmental Expert",
+      "readTime": "7 min",
+      "readTimeEn": "7 min",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La déforestation au Bénin est un enjeu majeur : chaque année, notre pays perd environ 50 000 hectares de forêt, principalement à cause de la production de charbon de bois. Briqu'Vert propose une solution concrète et mesurable à ce problème environnemental.",
+          "textEn": "Deforestation in Benin is a major issue: each year, our country loses about 50,000 hectares of forest, mainly due to charcoal production. Briqu'Vert offers a concrete and measurable solution to this environmental problem."
+        },
+        {
+          "type": "heading",
+          "text": "Le cycle destructeur du charbon de bois",
+          "textEn": "The destructive cycle of charcoal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pour produire 1 kg de charbon de bois, il faut en moyenne 5 à 6 kg de bois. Une famille béninoise moyenne consomme environ 15 kg de charbon par mois, ce qui représente 75 à 90 kg de bois prélevé dans nos forêts chaque mois, soit près d'une tonne par an.",
+          "textEn": "To produce 1 kg of charcoal, an average of 5 to 6 kg of wood is needed. An average Beninese family consumes about 15 kg of charcoal per month, which represents 75 to 90 kg of wood taken from our forests each month, or nearly one ton per year."
+        },
+        {
+          "type": "paragraph",
+          "text": "Multipliez cela par les millions de foyers qui utilisent le charbon de bois comme source d'énergie principale, et vous comprenez l'ampleur du problème. À ce rythme, le Bénin pourrait perdre 80% de sa couverture forestière d'ici 2050.",
+          "textEn": "Multiply this by the millions of households using charcoal as their main energy source, and you understand the scale of the problem. At this rate, Benin could lose 80% of its forest cover by 2050."
+        },
+        {
+          "type": "heading",
+          "text": "L'alternative Briqu'Vert : valoriser au lieu de détruire",
+          "textEn": "The Briqu'Vert alternative: valorize instead of destroy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nos briquettes sont fabriquées à partir de déchets agricoles qui seraient autrement brûlés ou laissés à pourrir : tiges de maïs, coques de cajou, sciure de bois. En valorisant ces résidus, nous créons une énergie propre sans toucher un seul arbre.",
+          "textEn": "Our briquettes are made from agricultural waste that would otherwise be burned or left to rot: corn stalks, cashew shells, sawdust. By valorizing these residues, we create clean energy without touching a single tree."
+        },
+        {
+          "type": "list",
+          "items": [
+            "1 sac de 5 kg de briquettes Briqu'Vert = 25 à 30 kg de bois préservé",
+            "Une famille utilisant Briqu'Vert épargne 300 à 360 kg de bois par an",
+            "100 familles = 30 à 36 tonnes de bois sauvées annuellement",
+            "Cela équivaut à préserver environ 15 arbres matures par famille chaque année"
+          ],
+          "itemsEn": [
+            "1 bag of 5 kg Briqu'Vert briquettes = 25 to 30 kg of wood preserved",
+            "A family using Briqu'Vert saves 300 to 360 kg of wood per year",
+            "100 families = 30 to 36 tons of wood saved annually",
+            "This is equivalent to preserving about 15 mature trees per family each year"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Impact carbone : des chiffres qui parlent",
+          "textEn": "Carbon impact: numbers that speak"
+        },
+        {
+          "type": "paragraph",
+          "text": "Au-delà de la préservation des arbres, nos briquettes ont un impact direct sur les émissions de CO₂. La production de charbon de bois émet environ 3 kg de CO₂ par kg de charbon produit. En comparaison, nos briquettes émettent 60% de CO₂ en moins lors de leur combustion.",
+          "textEn": "Beyond tree preservation, our briquettes have a direct impact on CO₂ emissions. Charcoal production emits about 3 kg of CO₂ per kg of charcoal produced. In comparison, our briquettes emit 60% less CO₂ during combustion."
+        },
+        {
+          "type": "quote",
+          "text": "Chaque sac de briquettes Briqu'Vert utilisé évite l'émission de 12 kg de CO₂ dans l'atmosphère. C'est l'équivalent de ce qu'absorbe un arbre en 6 mois.",
+          "textEn": "Each bag of Briqu'Vert briquettes used avoids the emission of 12 kg of CO₂ into the atmosphere. This is equivalent to what a tree absorbs in 6 months.",
+          "author": "Dr. Koffi Mensah",
+          "authorEn": "Dr. Koffi Mensah"
+        },
+        {
+          "type": "heading",
+          "text": "Notre objectif 2025 : 100 hectares de forêt préservés",
+          "textEn": "Our 2025 goal: 100 hectares of forest preserved"
+        },
+        {
+          "type": "paragraph",
+          "text": "Avec notre objectif de 500 familles utilisatrices régulières d'ici fin 2025, nous estimons pouvoir préserver l'équivalent de 100 hectares de forêt, soit 7 500 arbres matures. Cela représente également une réduction de 540 tonnes de CO₂ émises.",
+          "textEn": "With our goal of 500 regular user families by the end of 2025, we estimate we can preserve the equivalent of 100 hectares of forest, or 7,500 mature trees. This also represents a reduction of 540 tons of CO₂ emitted."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mais notre ambition ne s'arrête pas là. Nous travaillons avec des partenaires locaux pour lancer un programme de reforestation : pour chaque tonne de briquettes vendue, nous nous engageons à planter 10 arbres dans les zones dégradées du Bénin.",
+          "textEn": "But our ambition doesn't stop there. We are working with local partners to launch a reforestation program: for every ton of briquettes sold, we commit to planting 10 trees in degraded areas of Benin."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "portrait-mariama",
+      "title": "Portrait : Mariama, transformatrice de briquettes",
+      "titleEn": "Portrait: Mariama, briquette maker",
+      "excerpt": "Rencontre avec Mariama, membre de notre coopérative, qui a trouvé une nouvelle source de revenus grâce à Briqu'Vert.",
+      "excerptEn": "Meet Mariama, a member of our cooperative, who found a new source of income thanks to Briqu'Vert.",
+      "date": "2025-03-05",
+      "image": "/placeholder.svg?height=600&width=1200",
+      "category": "Témoignage",
+      "categoryEn": "Testimonial",
+      "author": "Interview par Sarah Kouassi",
+      "authorEn": "Interview by Sarah Kouassi",
+      "readTime": "6 min",
+      "readTimeEn": "6 min",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Mariama Sanni, 34 ans, mère de trois enfants, est l'une des premières transformatrices de briquettes de notre coopérative. Rencontre avec une femme qui a transformé des déchets agricoles en opportunité économique.",
+          "textEn": "Mariama Sanni, 34 years old, mother of three children, is one of the first briquette makers in our cooperative. Meet a woman who transformed agricultural waste into an economic opportunity."
+        },
+        {
+          "type": "heading",
+          "text": "Un nouveau départ après des années difficiles",
+          "textEn": "A new start after difficult years"
+        },
+        {
+          "type": "paragraph",
+          "text": "Avant de rejoindre Briqu'Vert, Mariama vendait des légumes au marché d'Akpakpa. Les revenus étaient irréguliers et insuffisants pour subvenir aux besoins de sa famille. \"Certains jours, je rentrais avec à peine 1000 FCFA. C'était très difficile de nourrir mes enfants et payer leur scolarité,\" confie-t-elle.",
+          "textEn": "Before joining Briqu'Vert, Mariama sold vegetables at the Akpakpa market. Income was irregular and insufficient to meet her family's needs. \"Some days, I came home with barely 1000 FCFA. It was very difficult to feed my children and pay for their schooling,\" she confides."
+        },
+        {
+          "type": "quote",
+          "text": "Quand j'ai entendu parler de Briqu'Vert, j'étais sceptique. Transformer des déchets en argent ? Ça semblait trop beau pour être vrai. Mais j'ai tenté ma chance, et aujourd'hui, je ne regrette rien.",
+          "textEn": "When I heard about Briqu'Vert, I was skeptical. Turning waste into money? It seemed too good to be true. But I took my chance, and today, I have no regrets.",
+          "author": "Mariama Sanni",
+          "authorEn": "Mariama Sanni"
+        },
+        {
+          "type": "heading",
+          "text": "Une formation complète et un accompagnement continu",
+          "textEn": "Comprehensive training and ongoing support"
+        },
+        {
+          "type": "paragraph",
+          "text": "En janvier 2025, Mariama a suivi notre formation de deux semaines sur la fabrication de briquettes. Elle a appris à collecter les résidus agricoles, à les sécher, les broyer, et les compresser en briquettes de qualité.",
+          "textEn": "In January 2025, Mariama completed our two-week training on briquette making. She learned to collect agricultural residues, dry them, grind them, and compress them into quality briquettes."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"La formation était très pratique. On nous a fourni tout le matériel nécessaire : la presse manuelle, les moules, les sacs de stockage. Et surtout, l'équipe de Briqu'Vert nous accompagne au quotidien. Si j'ai un problème, je peux les appeler.\"",
+          "textEn": "\"The training was very practical. We were provided with all the necessary equipment: the manual press, molds, storage bags. And most importantly, the Briqu'Vert team supports us daily. If I have a problem, I can call them.\""
+        },
+        {
+          "type": "heading",
+          "text": "Des revenus stables et en croissance",
+          "textEn": "Stable and growing income"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aujourd'hui, Mariama produit en moyenne 150 kg de briquettes par semaine, soit 30 sacs de 5 kg. Elle gagne 300 FCFA par sac vendu, ce qui lui assure un revenu mensuel d'environ 36 000 FCFA, bien plus stable que son activité précédente.",
+          "textEn": "Today, Mariama produces an average of 150 kg of briquettes per week, or 30 bags of 5 kg. She earns 300 FCFA per bag sold, which ensures her a monthly income of about 36,000 FCFA, much more stable than her previous activity."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Production hebdomadaire : 150 kg (30 sacs)",
+            "Revenu mensuel : 36 000 FCFA",
+            "Temps de travail : 4 heures par jour, 5 jours par semaine",
+            "Matière première : gratuite (déchets agricoles collectés localement)"
+          ],
+          "itemsEn": [
+            "Weekly production: 150 kg (30 bags)",
+            "Monthly income: 36,000 FCFA",
+            "Working time: 4 hours per day, 5 days per week",
+            "Raw material: free (agricultural waste collected locally)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Maintenant, je peux payer la scolarité de mes enfants sans stress. J'ai même pu acheter un nouveau réfrigérateur pour mieux conserver mes aliments. Et je mets de l'argent de côté chaque mois.\"",
+          "textEn": "\"Now, I can pay for my children's schooling without stress. I was even able to buy a new refrigerator to better preserve my food. And I put money aside every month.\""
+        },
+        {
+          "type": "heading",
+          "text": "Un impact qui dépasse l'économique",
+          "textEn": "An impact beyond economics"
+        },
+        {
+          "type": "paragraph",
+          "text": "Au-delà des revenus, Mariama est fière de contribuer à la protection de l'environnement. \"Avant, je voyais ces tiges de maïs et ces coques de cajou comme des déchets inutiles. Maintenant, je sais que je transforme ces déchets en énergie propre qui aide les familles et protège nos forêts.\"",
+          "textEn": "Beyond income, Mariama is proud to contribute to environmental protection. \"Before, I saw these corn stalks and cashew shells as useless waste. Now, I know I'm transforming this waste into clean energy that helps families and protects our forests.\""
+        },
+        {
+          "type": "paragraph",
+          "text": "Elle est également devenue une référence dans son quartier. \"Les autres femmes me demandent comment rejoindre la coopérative. Je suis devenue une sorte d'ambassadrice de Briqu'Vert dans ma communauté.\"",
+          "textEn": "She has also become a reference in her neighborhood. \"Other women ask me how to join the cooperative. I've become a kind of Briqu'Vert ambassador in my community.\""
+        },
+        {
+          "type": "heading",
+          "text": "Ses projets d'avenir",
+          "textEn": "Her future plans"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mariama ne compte pas s'arrêter là. Elle souhaite augmenter sa production et former d'autres femmes de son quartier. \"Mon rêve, c'est de créer une petite unité de production avec 5 ou 6 autres femmes. Ensemble, on pourrait produire beaucoup plus et avoir un impact encore plus grand.\"",
+          "textEn": "Mariama doesn't plan to stop there. She wants to increase her production and train other women in her neighborhood. \"My dream is to create a small production unit with 5 or 6 other women. Together, we could produce much more and have an even greater impact.\""
+        },
+        {
+          "type": "quote",
+          "text": "Briqu'Vert m'a donné plus qu'un travail. Ça m'a donné de la dignité, de l'autonomie, et l'espoir d'un avenir meilleur pour mes enfants.",
+          "textEn": "Briqu'Vert gave me more than a job. It gave me dignity, autonomy, and hope for a better future for my children.",
+          "author": "Mariama Sanni",
+          "authorEn": "Mariama Sanni"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "guide-utilisation",
+      "title": "Guide d'utilisation : Optimiser la combustion de vos briquettes",
+      "titleEn": "Usage guide: Optimize your briquettes combustion",
+      "excerpt": "Conseils pratiques pour tirer le meilleur parti de vos briquettes écologiques et maximiser leur durée de combustion.",
+      "excerptEn": "Practical tips to get the most out of your ecological briquettes and maximize their burn time.",
+      "date": "2025-02-28",
+      "image": "/placeholder.svg?height=600&width=1200",
+      "category": "Guide",
+      "categoryEn": "Guide",
+      "author": "Équipe Technique Briqu'Vert",
+      "authorEn": "Briqu'Vert Technical Team",
+      "readTime": "8 min",
+      "readTimeEn": "8 min",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Vous avez fait le choix écologique et économique d'utiliser nos briquettes Briqu'Vert. Voici nos meilleurs conseils pour optimiser leur utilisation et profiter pleinement de leurs avantages.",
+          "textEn": "You have made the ecological and economical choice to use our Briqu'Vert briquettes. Here are our best tips to optimize their use and fully enjoy their benefits."
+        },
+        {
+          "type": "heading",
+          "text": "1. Préparation et allumage",
+          "textEn": "1. Preparation and ignition"
+        },
+        {
+          "type": "paragraph",
+          "text": "L'allumage correct de vos briquettes est essentiel pour une combustion optimale. Contrairement au charbon de bois, les briquettes nécessitent une technique légèrement différente.",
+          "textEn": "Proper ignition of your briquettes is essential for optimal combustion. Unlike charcoal, briquettes require a slightly different technique."
+        },
+        {
+          "type": "subheading",
+          "text": "Étape par étape :",
+          "textEn": "Step by step:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Disposez 3-4 briquettes en pyramide dans votre foyer",
+            "Placez du petit bois sec ou du papier journal au centre",
+            "Allumez le combustible d'amorçage",
+            "Laissez les briquettes s'enflammer pendant 5-7 minutes",
+            "Une fois bien allumées, ajoutez 2-3 briquettes supplémentaires",
+            "Attendez que les flammes se stabilisent avant de commencer à cuisiner"
+          ],
+          "itemsEn": [
+            "Arrange 3-4 briquettes in a pyramid in your stove",
+            "Place dry kindling or newspaper in the center",
+            "Light the starter fuel",
+            "Let the briquettes ignite for 5-7 minutes",
+            "Once well lit, add 2-3 additional briquettes",
+            "Wait for the flames to stabilize before starting to cook"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Astuce : N'utilisez jamais de pétrole ou d'essence pour allumer vos briquettes. Cela peut être dangereux et altérer le goût de vos aliments.",
+          "textEn": "Tip: Never use kerosene or gasoline to light your briquettes. This can be dangerous and alter the taste of your food."
+        },
+        {
+          "type": "heading",
+          "text": "2. Gestion de la chaleur",
+          "textEn": "2. Heat management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Les briquettes Briqu'Vert produisent une chaleur constante et durable. Voici comment ajuster la température selon vos besoins de cuisson.",
+          "textEn": "Briqu'Vert briquettes produce constant and lasting heat. Here's how to adjust the temperature according to your cooking needs."
+        },
+        {
+          "type": "subheading",
+          "text": "Pour une chaleur intense (ébullition, friture) :",
+          "textEn": "For intense heat (boiling, frying):"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Utilisez 6-8 briquettes bien espacées",
+            "Assurez une bonne circulation d'air en dessous",
+            "Ouvrez les aérations de votre foyer au maximum"
+          ],
+          "itemsEn": [
+            "Use 6-8 well-spaced briquettes",
+            "Ensure good air circulation underneath",
+            "Open your stove vents to the maximum"
+          ]
+        },
+        {
+          "type": "subheading",
+          "text": "Pour une chaleur moyenne (mijotage, cuisson lente) :",
+          "textEn": "For medium heat (simmering, slow cooking):"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Réduisez à 4-5 briquettes",
+            "Fermez partiellement les aérations",
+            "Ajoutez une briquette toutes les 30-40 minutes si nécessaire"
+          ],
+          "itemsEn": [
+            "Reduce to 4-5 briquettes",
+            "Partially close the vents",
+            "Add a briquette every 30-40 minutes if necessary"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "3. Maximiser la durée de combustion",
+          "textEn": "3. Maximize burn time"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nos briquettes peuvent brûler jusqu'à 3 heures avec une gestion appropriée. Voici comment prolonger leur durée de vie :",
+          "textEn": "Our briquettes can burn for up to 3 hours with proper management. Here's how to extend their lifespan:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ne surchargez pas votre foyer : 6-8 briquettes maximum",
+            "Ajoutez les nouvelles briquettes sur les braises existantes, pas sur les flammes",
+            "Évitez de remuer constamment les briquettes",
+            "Fermez partiellement les aérations pour ralentir la combustion",
+            "Utilisez un couvercle sur vos casseroles pour réduire le temps de cuisson"
+          ],
+          "itemsEn": [
+            "Don't overload your stove: 6-8 briquettes maximum",
+            "Add new briquettes on existing embers, not on flames",
+            "Avoid constantly stirring the briquettes",
+            "Partially close vents to slow combustion",
+            "Use a lid on your pots to reduce cooking time"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "4. Stockage et conservation",
+          "textEn": "4. Storage and preservation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un bon stockage garantit la qualité et l'efficacité de vos briquettes sur le long terme.",
+          "textEn": "Proper storage ensures the quality and efficiency of your briquettes in the long term."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Conservez vos briquettes dans un endroit sec et aéré",
+            "Évitez tout contact avec l'eau ou l'humidité",
+            "Gardez-les dans leur sac d'origine ou dans un conteneur hermétique",
+            "Éloignez-les des sources de chaleur directe",
+            "Utilisez les sacs les plus anciens en premier"
+          ],
+          "itemsEn": [
+            "Store your briquettes in a dry and ventilated place",
+            "Avoid any contact with water or moisture",
+            "Keep them in their original bag or in an airtight container",
+            "Keep them away from direct heat sources",
+            "Use the oldest bags first"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Attention : Des briquettes humides perdent 40% de leur pouvoir calorifique et produisent plus de fumée.",
+          "textEn": "Warning: Wet briquettes lose 40% of their calorific value and produce more smoke."
+        },
+        {
+          "type": "heading",
+          "text": "5. Entretien de votre foyer",
+          "textEn": "5. Stove maintenance"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un foyer propre améliore l'efficacité de vos briquettes et prolonge la durée de vie de votre équipement.",
+          "textEn": "A clean stove improves the efficiency of your briquettes and extends the life of your equipment."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Retirez les cendres après chaque utilisation (une fois refroidies)",
+            "Nettoyez les grilles et aérations une fois par semaine",
+            "Vérifiez que les aérations ne sont pas obstruées",
+            "Conservez les cendres : elles font un excellent engrais pour votre jardin !"
+          ],
+          "itemsEn": [
+            "Remove ashes after each use (once cooled)",
+            "Clean grates and vents once a week",
+            "Check that vents are not obstructed",
+            "Keep the ashes: they make excellent fertilizer for your garden!"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "6. Comparaison avec le charbon de bois",
+          "textEn": "6. Comparison with charcoal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Si vous êtes habitué au charbon de bois, voici les principales différences à connaître :",
+          "textEn": "If you are used to charcoal, here are the main differences to know:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Allumage : Les briquettes prennent 2-3 minutes de plus à s'allumer",
+            "Chaleur : Plus constante et durable avec les briquettes",
+            "Fumée : 60% moins de fumée avec Briqu'Vert",
+            "Cendres : Les briquettes produisent plus de cendres, mais elles sont excellentes comme engrais",
+            "Durée : Une briquette brûle 30% plus longtemps qu'un morceau de charbon équivalent"
+          ],
+          "itemsEn": [
+            "Ignition: Briquettes take 2-3 minutes longer to light",
+            "Heat: More constant and lasting with briquettes",
+            "Smoke: 60% less smoke with Briqu'Vert",
+            "Ashes: Briquettes produce more ashes, but they are excellent as fertilizer",
+            "Duration: A briquette burns 30% longer than an equivalent piece of charcoal"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "7. Recettes adaptées",
+          "textEn": "7. Adapted recipes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Certains plats sont particulièrement adaptés à la cuisson aux briquettes :",
+          "textEn": "Some dishes are particularly suitable for cooking with briquettes:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Riz et sauces : La chaleur constante évite que le riz n'attache",
+            "Ragoûts et mijotés : Parfaits pour une cuisson lente et homogène",
+            "Grillades : La chaleur intense initiale saisit parfaitement la viande",
+            "Pâte de maïs : La température stable facilite la cuisson"
+          ],
+          "itemsEn": [
+            "Rice and sauces: Constant heat prevents rice from sticking",
+            "Stews and braises: Perfect for slow and even cooking",
+            "Grills: Initial intense heat perfectly sears meat",
+            "Corn paste: Stable temperature facilitates cooking"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Besoin d'aide ?",
+          "textEn": "Need help?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Notre équipe est disponible pour répondre à toutes vos questions sur l'utilisation de nos briquettes. Contactez-nous par WhatsApp au +229 XX XX XX XX ou visitez l'un de nos points de vente pour une démonstration gratuite.",
+          "textEn": "Our team is available to answer all your questions about using our briquettes. Contact us on WhatsApp at +229 XX XX XX XX or visit one of our sales points for a free demonstration."
+        },
+        {
+          "type": "quote",
+          "text": "Avec ces conseils, vous économiserez jusqu'à 50% sur votre consommation de combustible tout en cuisinant de manière plus écologique !",
+          "textEn": "With these tips, you will save up to 50% on your fuel consumption while cooking more ecologically!",
+          "author": "Équipe Briqu'Vert",
+          "authorEn": "Briqu'Vert Team"
+        }
+      ]
+    }
+  ]
+}

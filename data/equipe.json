@@ -1,0 +1,68 @@
+{
+  "membres": [
+    {
+      "id": 1,
+      "nom": "ATTIOGBE Kuechi Emile",
+      "role": {
+        "fr": "Fondateur",
+        "en": "Founder"
+      },
+      "specialite": {
+        "fr": "Ingénierie informatique",
+        "en": "Computer Engineering"
+      },
+      "description": {
+        "fr": "Vision stratégique, développement produit et partenariats",
+        "en": "Strategic vision, product development and partnerships"
+      },
+      "photo": "/Emile-professionneml.png?height=400&width=400"
+    },
+    {
+      "id": 2,
+      "nom": {
+        "fr": "Technicien Biomasse",
+        "en": "Biomass Technician"
+      },
+      "role": {
+        "fr": "Responsable Production",
+        "en": "Production Manager"
+      },
+      "specialite": {
+        "fr": "Transformation biomasse",
+        "en": "Biomass transformation"
+      },
+      "description": {
+        "fr": "Gestion du procédé de transformation et contrôle qualité",
+        "en": "Transformation process management and quality control"
+      },
+      "photo": "/Luc.jpg?height=300&width=300"
+    },
+    {
+      "id": 3,
+      "nom": {
+        "fr": "COFFI Huchrist",
+        "en": "COFFI Huchrist"
+      },
+      "role": {
+        "fr": "Responsable de l’Équipe Marketing",
+        "en": "Head of Marketing and Awareness Team"
+      },
+      "specialite": {
+        "fr": "Marketing digital et communication visuelle",
+        "en": "Digital Marketing and Visual Communication"
+      },
+      "description": {
+        "fr": "Assure la visibilité de l’organisation à travers la conception de supports visuels, la gestion des campagnes de sensibilisation et la formation des utilisateurs sur le terrain.",
+        "en": "Ensures the organization's visibility through the design of visual supports, the management of awareness campaigns, and user training in the field."
+      },
+      "photo": "/new.png?height=300&width=300"
+    }
+  ],
+  "cooperatives": {
+    "description": {
+      "fr": "Réseau de transformatrices et revendeuses organisées en coopératives",
+      "en": "Network of processors and resellers organized in cooperatives"
+    },
+    "nombre": 12
+  }
+}

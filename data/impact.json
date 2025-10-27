@@ -1,0 +1,11 @@
+{
+  "menages": 250,
+  "tco2": 125,
+  "hectares": 15,
+  "emplois_femmes": 12,
+  "emplois_jeunes": 8,
+  "methodologie": {
+    "fr": "Calculs basés sur la substitution du charbon de bois et la valorisation des résidus agricoles",
+    "en": "Calculations based on charcoal substitution and agricultural residue valorization"
+  }
+}

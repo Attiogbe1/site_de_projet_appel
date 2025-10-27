@@ -1,0 +1,70 @@
+{
+  "fr": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "Ça chauffe comme le charbon ?",
+        "reponse": "Oui, nos briquettes offrent une chaleur stable et une durée de combustion élevée, comparable au charbon de bois traditionnel."
+      },
+      {
+        "id": 2,
+        "question": "Faut-il un nouveau foyer ?",
+        "reponse": "Non, les briquettes Briqu'Vert sont compatibles avec les foyers traditionnels courants. Pas besoin d'investir dans un nouvel équipement."
+      },
+      {
+        "id": 3,
+        "question": "C'est vraiment moins cher ?",
+        "reponse": "Notre objectif est d'offrir un prix égal ou inférieur au charbon de bois, avec une performance équivalente ou supérieure."
+      },
+      {
+        "id": 4,
+        "question": "Où acheter les briquettes ?",
+        "reponse": "Vous pouvez acheter nos briquettes dans nos points de vente locaux ou passer commande en ligne via notre formulaire ou WhatsApp."
+      },
+      {
+        "id": 5,
+        "question": "Quel est l'impact sur le climat ?",
+        "reponse": "Les briquettes émettent moins de CO₂ et de particules fines que le charbon, tout en réduisant la pression sur les forêts et la déforestation."
+      },
+      {
+        "id": 6,
+        "question": "Quels déchets agricoles utilisez-vous ?",
+        "reponse": "Nous valorisons principalement les tiges de maïs, les coques de cajou et autres résidus agricoles locaux qui seraient autrement brûlés ou gaspillés."
+      }
+    ]
+  },
+  "en": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "Does it heat like charcoal?",
+        "reponse": "Yes, our briquettes offer stable heat and high burn time, comparable to traditional charcoal."
+      },
+      {
+        "id": 2,
+        "question": "Do I need a new stove?",
+        "reponse": "No, Briqu'Vert briquettes are compatible with common traditional stoves. No need to invest in new equipment."
+      },
+      {
+        "id": 3,
+        "question": "Is it really cheaper?",
+        "reponse": "Our goal is to offer a price equal to or lower than charcoal, with equivalent or superior performance."
+      },
+      {
+        "id": 4,
+        "question": "Where can I buy the briquettes?",
+        "reponse": "You can buy our briquettes at our local sales points or order online via our form or WhatsApp."
+      },
+      {
+        "id": 5,
+        "question": "What is the climate impact?",
+        "reponse": "Briquettes emit less CO₂ and fine particles than charcoal, while reducing pressure on forests and deforestation."
+      },
+      {
+        "id": 6,
+        "question": "What agricultural waste do you use?",
+        "reponse": "We mainly valorize corn stalks, cashew shells, and other local agricultural residues that would otherwise be burned or wasted."
+      }
+    ]
+  }
+}
