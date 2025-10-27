@@ -42,40 +42,49 @@ export default function EquipeClientPage() {
         {equipeData.membres.map((membre) => (
           <div
             key={membre.id}
-            className="bg-card border border-border rounded-xl overflow-hidden hover:shadow-xl transition-shadow"
+            className="bg-card border border-border rounded-xl overflow-hidden hover:shadow-xl transition-shadow pt-14"
           >
             {/* Image grande et ronde */}
-            <div className="flex justify-center mt-10 mb-5">
-              <div className="relative w-60 h-60 rounded-full overflow-hidden border-4 border-primary/40 shadow-lg hover:scale-105 transition-transform duration-300">
-                <Image
-                  src={`${membre.photo}?width=600&height=600`}
-                  alt={getLocalizedValue(membre.nom)}
-                  fill
-                  className="object-cover"
-                  sizes="(max-width:768px) 100vw, 33vw"
-                />
+            <div className="flex justify-center -mt-16 mb-5">{
+              /* outer wrapper uses negative margin so the circle overlaps the card, creating the 'head pops out' effect */
+            }
+              <div className="relative w-80 h-80 group">
+                {/* circular framed background */}
+                <div className="absolute inset-0 rounded-full bg-card border-4 border-primary/40 shadow-lg"></div>
+
+                {/* image container (keeps the circular crop) */}
+                <div className="absolute inset-0 overflow-hidden rounded-full">
+                  <Image
+                    src={`${membre.photo}?width=800&height=800`}
+                    alt={getLocalizedValue(membre.nom)}
+                    fill
+                    /* default centered; on hover the image will move up (pop out) and scale slightly; when hover ends it returns down */
+                    className="object-cover object-top transform transition-transform duration-500 group-hover:-translate-y-6 group-hover:scale-105"
+                    sizes="(max-width:800px) 90vw, 33vw"
+                  />
+                </div>
               </div>
             </div>
 
             {/* Infos du membre */}
-            <div className="p-8 text-center">
-              {/* Nom + rôle sur la même ligne */}
-              <div className="flex justify-center items-baseline gap-2 mb-3">
-                <h5 className="font-sans text-[1.0rem] font-semibold text-primary tracking-tight whitespace-nowrap">
+            <div className="px-6 pb-8 pt-6 text-center">
+              {/* Name + role */}
+              <div className="flex flex-col items-center gap-2 mb-4">
+                <h5 className="font-sans text-lg md:text-xl font-bold text-foreground tracking-tight">
                   {getLocalizedValue(membre.nom)}
-                </h5>/
-                <span className="text-[1rem] font-medium text-secondary whitespace-nowrap">
+                </h5>
+                <span className="text-sm font-medium text-secondary/90 bg-secondary/6 px-3 py-1 rounded-full">
                   {getLocalizedValue(membre.role)}
                 </span>
               </div>
 
               {/* Spécialité */}
-              <div className="text-[15px] leading-6 text-muted-foreground/90 mb-3">
+              <div className="text-sm italic text-primary/80 mb-3">
                 {getLocalizedValue(membre.specialite)}
               </div>
 
               {/* Description */}
-              <p className="text-[15px] leading-7 text-muted-foreground/95 line-clamp-4">
+              <p className="text-sm leading-6 text-muted-foreground/85 line-clamp-4">
                 {getLocalizedValue(membre.description)}
               </p>
             </div>
