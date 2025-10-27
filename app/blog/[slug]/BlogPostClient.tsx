@@ -57,13 +57,13 @@ export default function BlogPostClient({ post, relatedPosts }: BlogPostClientPro
         <div className="absolute inset-0 bg-gradient-to-t from-background via-background/50 to-transparent" />
 
         <div className="absolute top-8 left-4 md:left-8">
-          <Link
-            href="/blog"
-            className="inline-flex items-center gap-2 px-4 py-2 bg-background/90 backdrop-blur-sm text-foreground rounded-lg hover:bg-background transition-colors"
-          >
-            <ArrowLeft className="w-4 h-4" />
-            <span className="font-medium">{t.blog.back_to_blog}</span>
-          </Link>
+            <Link
+              href="/blog"
+              className="inline-flex items-center gap-2 px-4 py-2 bg-background/90 backdrop-blur-sm text-foreground rounded-lg hover:bg-background transition-colors"
+            >
+              <ArrowLeft className="w-4 h-4" />
+              <span className="font-medium">{t?.blog?.back_to_blog || "Retour au blog"}</span>
+            </Link>
         </div>
       </div>
 
@@ -100,7 +100,7 @@ export default function BlogPostClient({ post, relatedPosts }: BlogPostClientPro
               <div className="flex items-center gap-2">
                 <Clock className="w-4 h-4" />
                 <span>
-                  {isFrench ? post.readTime : post.readTimeEn} {t.blog.reading_time}
+                  {isFrench ? post.readTime : post.readTimeEn} {t?.blog?.reading_time || "de lecture"}
                 </span>
               </div>
             </div>
@@ -171,16 +171,16 @@ export default function BlogPostClient({ post, relatedPosts }: BlogPostClientPro
 
           <div className="bg-card border border-border rounded-2xl p-8 shadow-lg mb-8">
             <div className="flex items-center justify-between">
-              <h3 className="font-sans text-lg font-semibold text-foreground">{t.blog.share_article}</h3>
+              <h3 className="font-sans text-lg font-semibold text-foreground">{t?.blog?.share_article || "Partager cet article"}</h3>
               <button className="inline-flex items-center gap-2 px-4 py-2 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors">
                 <Share2 className="w-4 h-4" />
-                <span className="font-medium">{t.blog.share}</span>
+                <span className="font-medium">{t?.blog?.share || "Partager"}</span>
               </button>
             </div>
           </div>
 
           <div className="bg-card border border-border rounded-2xl p-8 md:p-12 shadow-lg">
-            <h3 className="font-sans text-2xl font-bold text-foreground mb-6">{t.blog.related_articles}</h3>
+            <h3 className="font-sans text-2xl font-bold text-foreground mb-6">{t?.blog?.related_articles || "Articles similaires"}</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {relatedPosts.map((relatedPost) => (
                 <Link
@@ -214,20 +214,20 @@ export default function BlogPostClient({ post, relatedPosts }: BlogPostClientPro
       <section className="py-16 bg-secondary/5 mt-16">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
-            <h2 className="font-sans text-3xl font-bold text-foreground mb-4">{t.blog.ready_to_switch}</h2>
-            <p className="text-lg text-muted-foreground mb-8">{t.blog.ready_desc}</p>
+            <h2 className="font-sans text-3xl font-bold text-foreground mb-4">{t?.blog?.ready_to_switch || "Prêt à passer à Briqu'Vert ?"}</h2>
+            <p className="text-lg text-muted-foreground mb-8">{t?.blog?.ready_desc || "Rejoignez les familles qui ont choisi l'énergie propre."}</p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
                 href="/distribution"
                 className="px-8 py-4 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-primary/90 transition-colors"
               >
-                {t.blog.find_sales_point}
+                {t?.blog?.find_sales_point || "Trouver un point de vente"}
               </Link>
               <Link
                 href="/contact"
                 className="px-8 py-4 bg-secondary text-secondary-foreground rounded-lg font-semibold hover:bg-secondary/80 transition-colors"
               >
-                {t.contact.title}
+                {t?.contact?.title || "Contact"}
               </Link>
             </div>
           </div>

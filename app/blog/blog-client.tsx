@@ -117,9 +117,9 @@ export default function BlogClientPage() {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
             <h1 className="font-sans text-4xl md:text-5xl font-bold text-foreground mb-6 text-balance">
-              {t.blog.title}
+              {t?.blog?.title || "Blog & Actualités"}
             </h1>
-            <p className="text-lg text-muted-foreground text-pretty">{t.blog.subtitle}</p>
+            <p className="text-lg text-muted-foreground text-pretty">{t?.blog?.subtitle || "Suivez nos actualités et témoignages"}</p>
           </div>
         </div>
       </section>
@@ -196,7 +196,7 @@ export default function BlogClientPage() {
                       href={`/blog/${post.slug}`}
                       className="inline-flex items-center gap-2 text-primary font-medium text-sm hover:gap-3 transition-all"
                     >
-                      {t.blog.read_more}
+                      {t?.blog?.read_more || "Lire la suite"}
                       <ArrowRight className="w-4 h-4" />
                     </Link>
                   </div>
@@ -222,19 +222,19 @@ export default function BlogClientPage() {
       <section className="py-16 bg-secondary/5">
         <div className="container mx-auto px-4">
           <div className="max-w-2xl mx-auto text-center">
-            <h2 className="font-sans text-2xl font-bold text-foreground mb-4">{t.blog.stay_informed}</h2>
-            <p className="text-muted-foreground mb-6">{t.blog.newsletter_desc}</p>
+            <h2 className="font-sans text-2xl font-bold text-foreground mb-4">{t?.blog?.stay_informed || "Restez informé"}</h2>
+            <p className="text-muted-foreground mb-6">{t?.blog?.newsletter_desc || "Recevez nos dernières actualités"}</p>
             <form className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
               <input
                 type="email"
-                placeholder={t.blog.email_placeholder}
+                placeholder={t?.blog?.email_placeholder || "Votre email"}
                 className="flex-1 px-4 py-3 bg-background border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary"
               />
               <button
                 type="submit"
                 className="px-6 py-3 bg-primary text-primary-foreground rounded-lg font-medium hover:bg-primary/90 transition-colors whitespace-nowrap"
               >
-                {t.blog.subscribe}
+                {t?.blog?.subscribe || "S'abonner"}
               </button>
             </form>
           </div>
